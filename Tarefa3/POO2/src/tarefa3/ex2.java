@@ -1,6 +1,10 @@
 package tarefa3;
 public class ex2 {
-
+	
+	/*
+	 * Tempo médio de execução 2,4584
+	 */
+	
 	public static void main(String[] args) {
 		int primeiro = 0;
 		int ultimo = 9999;
@@ -61,5 +65,3 @@ class ClasseThread extends Thread {
 	      }
 	   }
 }
-
-// 2.4387  2.6286  2.5500
