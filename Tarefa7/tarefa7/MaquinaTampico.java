@@ -1,0 +1,18 @@
+public class MaquinaTampico implements IMaquinaBebida{
+
+    @Override
+    public IRefrigerante entregarRefrigerante() {
+        return null;
+    }
+
+    @Override
+    public ISuco entregarSuco() {
+        return new Tampico();
+    }
+
+    @Override
+    public IAgua entregarAgua() {
+        return null;
+    }
+    
+}
