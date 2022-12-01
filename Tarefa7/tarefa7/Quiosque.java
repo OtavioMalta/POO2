@@ -22,4 +22,8 @@ public class Quiosque{
     public String pegarAgua(){
         return iMaquinaBebida.entregarAgua() == null ? "Não há esta bebida para esta maquina" : iMaquinaBebida.entregarAgua().pegar();
     }
+
+    public String pegarRefriZero(){
+        return iMaquinaBebida.entregarRefrigeranteZero() == null ? "Não há esta bebida para esta maquina" : iMaquinaBebida.entregarRefrigeranteZero().pegar();
+    }
 }

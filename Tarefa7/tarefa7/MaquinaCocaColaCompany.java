@@ -14,4 +14,9 @@ public class MaquinaCocaColaCompany implements IMaquinaBebida{
     public IAgua entregarAgua(){
         return new Crystal();
     }
+
+    @Override
+    public IRefrigerante entregarRefrigeranteZero(){
+        return new CocaColaZero();
+    }
 }

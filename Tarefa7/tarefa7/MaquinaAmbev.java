@@ -14,4 +14,9 @@ public class MaquinaAmbev implements IMaquinaBebida{
     public IAgua entregarAgua() {
         return new Ama();
     }
+
+    @Override
+    public IRefrigerante entregarRefrigeranteZero() {
+        return null;
+    }
 }
