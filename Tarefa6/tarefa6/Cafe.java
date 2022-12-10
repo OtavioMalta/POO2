@@ -1,4 +1,4 @@
-public class Cafe implements Bebida {
+public class Cafe implements Bebida {//ConcretProduct
 
     @Override
     public String tipoBebida() {

@@ -1,4 +1,4 @@
-public class Ama implements IAgua{
+public class Ama implements IAgua{//ConcretProduct
 
     @Override
     public String pegar() {

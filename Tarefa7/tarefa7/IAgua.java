@@ -1,4 +1,4 @@
-public interface IAgua {
+public interface IAgua { //AbstractProduct
     String pegar();
 
 }

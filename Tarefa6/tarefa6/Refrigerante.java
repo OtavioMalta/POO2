@@ -1,4 +1,4 @@
-public class Refrigerante implements Bebida{
+public class Refrigerante implements Bebida{ //ConcretProduct
 
     
     public String tipoBebida(){

@@ -1,4 +1,4 @@
-public class Quiosque{
+public class Quiosque{//Client
 
     public IMaquinaBebida iMaquinaBebida;
 

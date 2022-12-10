@@ -1,3 +1,3 @@
-public interface IRefrigerante{
+public interface IRefrigerante{//AbstractProduct
     String pegar();
 }

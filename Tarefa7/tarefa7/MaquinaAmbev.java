@@ -1,4 +1,4 @@
-public class MaquinaAmbev implements IMaquinaBebida{
+public class MaquinaAmbev implements IMaquinaBebida{//ConcretFactory
 
     @Override
     public IRefrigerante entregarRefrigerante(){

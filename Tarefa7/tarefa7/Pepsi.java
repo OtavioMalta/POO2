@@ -1,4 +1,4 @@
-public class Pepsi implements IRefrigerante{
+public class Pepsi implements IRefrigerante{//ConcretProduct
 
     @Override
     public String pegar(){

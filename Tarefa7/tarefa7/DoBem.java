@@ -1,4 +1,4 @@
-public class DoBem implements ISuco{
+public class DoBem implements ISuco{//ConcretProduct
 
     @Override
     public String pegar(){

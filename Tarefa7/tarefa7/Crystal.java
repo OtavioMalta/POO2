@@ -1,4 +1,4 @@
-public class Crystal implements IAgua{
+public class Crystal implements IAgua{//ConcretProduct
 
     @Override
     public String pegar() {

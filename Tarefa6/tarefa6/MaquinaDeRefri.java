@@ -1,4 +1,4 @@
-public class MaquinaDeRefri extends MaquinaDeBebida{
+public class MaquinaDeRefri extends MaquinaDeBebida{ // Creator
    
     @Override
     public Bebida entregarBebida(){

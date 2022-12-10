@@ -1,4 +1,4 @@
-public class Tampico implements ISuco{
+public class Tampico implements ISuco{ //ConcretProduct
 
     @Override
     public String pegar() {

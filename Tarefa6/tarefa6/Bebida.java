@@ -1,3 +1,3 @@
-public interface Bebida {
+public interface Bebida { // Product
     public String tipoBebida();
 }

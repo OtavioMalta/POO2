@@ -1,3 +1,3 @@
-public interface ISuco{
+public interface ISuco{//AbstractProduct
     String pegar();
 }

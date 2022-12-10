@@ -1,4 +1,4 @@
-public class DelValle implements ISuco{
+public class DelValle implements ISuco{//ConcretProduct
 
     @Override
     public String pegar(){

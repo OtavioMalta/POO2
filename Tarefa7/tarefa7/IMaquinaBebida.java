@@ -1,4 +1,4 @@
-public interface IMaquinaBebida{
+public interface IMaquinaBebida{//AbstractFactory
     IRefrigerante entregarRefrigerante();
     ISuco entregarSuco();
     IAgua entregarAgua();
