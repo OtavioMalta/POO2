@@ -1,3 +1,5 @@
+import early.Quiosque;
+
 public class Main{
     public static void main(String[] args) {
         //ex3
