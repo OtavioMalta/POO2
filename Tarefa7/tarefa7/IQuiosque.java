@@ -1,9 +1,9 @@
-public class Quiosque{//Client
+public class IQuiosque{//Client
 
     public IMaquinaBebida iMaquinaBebida;
 
     //ex2
-    public Quiosque(IMaquinaBebida iMaquinaBebida){
+    public IQuiosque(IMaquinaBebida iMaquinaBebida){
         this.iMaquinaBebida = iMaquinaBebida;
     }
 
